@@ -8,7 +8,7 @@ Welcome to the Life's Crossroads Adventure game! This Python console-based game 
 
 1. **Clone the Repository:**
     ```bash
-    git clone [https://github.com/your-username/lifes-crossroads-adventure.git](https://github.com/your-username/lifes-crossroads-adventure.git)
+    git clone https://github.com/Zubeda-yasmeen-ardent/Text_Based_Adventure_Game.git
     cd lifes-crossroads-adventure
     ```
 
